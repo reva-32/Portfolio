@@ -442,7 +442,7 @@ function App() {
               <div className="edu-extra">
 
                 <span>
-                  <b>4TH SEM SGPA:</b> 9.36
+                  <b>CGPA [till now]:</b> 8.96
                 </span>
 
                 <span>
@@ -683,18 +683,6 @@ function App() {
 
                 <span className="cert-meta">
                   40-hour hands-on program
-                </span>
-
-              </div>
-
-              <div className="cert-row">
-
-                <span className="cert-name">
-                  Open-Source Security Tooling
-                </span>
-
-                <span className="cert-meta">
-                  DevGuard · Published on PyPI
                 </span>
 
               </div>
